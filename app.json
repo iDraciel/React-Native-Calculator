@@ -16,6 +16,11 @@
     "assetBundlePatterns": [
       "**/*"
     ],
+    
+      "android": {
+          "package": "com.espace.myapp"
+      },
+   
     "ios": {
       "supportsTablet": true
     },
